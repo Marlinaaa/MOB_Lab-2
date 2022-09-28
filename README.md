@@ -24,7 +24,7 @@ Update the TextView for the count.
 ->**All of the above.**
 
 
-#2.2
+**#2.2**
 
 1. If you run the homework app before implementing onSaveInstanceState(), what happens if you rotate the device? Choose one:
 -> **The counter is reset to 0, and the EditText no longer contains the text you entered.**
@@ -41,8 +41,7 @@ Update the TextView for the count.
 4. Which Activity lifecycle methods are best to use for saving data before the Activity is finished or destroyed? Choose one:
 -> **onPause() or onStop()**
 
-
-#2.3
+**#2.3**
 
 1. Which constructor method do you use to create an implicit Intent to launch a camera app?
 -> **new Intent(String action)**
