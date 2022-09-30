@@ -5,7 +5,7 @@
 
 
 2. What happens if you remove the android:parentActivityName and the <meta-data> elements from the second Activity declaration in the AndroidManifest.xml file? Choose one:
-->**The second Activity no longer appears when you try to start it with an explicit Intent.**
+->**The Back button no longer works in the second Activity to send the user back to the main Activity.**
 
   
 3. Which constructor method do you use to create a new explicit Intent? Choose one:
